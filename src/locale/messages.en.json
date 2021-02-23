@@ -1,0 +1,4 @@
+{
+  "hello": "Hello world!",
+  "description": "This is a demo of one of the options for configuring i18n for sapper"
+}
